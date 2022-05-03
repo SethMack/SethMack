@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SethMack
 - 👀 I’m interested in Mobile App Devlopment
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on Devloping a self-help app
 - 📫 How to reach me, sethvmack@gmail.com
 
 <!---
