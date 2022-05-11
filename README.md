@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SethMack
-- 👀 I’m interested in Mobile App Devlopment
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in Mobile App Devlopment and Web-Crawling
+- 🌱 I’m currently working as a Java Developer writing web-spiders for Wine-Searcher
 - 📫 How to reach me, sethvmack@gmail.com
 
 <!---
